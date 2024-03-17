@@ -13,5 +13,5 @@ jobs:
           pip install -r requirements.txt
           export MLFLOW_TRACKING_URI=https://dagshub.com/hadainn/mlops-cicd.mlflow
           export MLFLOW_TRACKING_USERNAME=hadainn
-          export MLFLOW_TRACKING_PASSWORD=2c709b8f805a0894c96137f84314b4347089a
+          export MLFLOW_TRACKING_PASSWORD=2c709b8f805a0894c96137f84314b4347089a0f7
           python main.py 
